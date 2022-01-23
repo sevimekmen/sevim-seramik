@@ -1,0 +1,2 @@
+### 3 sayfalık web sitesi ödevi
+Bu ödevde css kullanarak web sitesi yaptım. Web sitesini yaparken, Dribbble'da gördüğüm bir web sitesinden esinlendim ve bu siteyi kendi zevkime ve yapabildiklerime göre uyarladım.
